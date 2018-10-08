@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">generatorius3000</string>
+    <string name="action_settings">Nustatymai</string>
+    <string name="hint_password">slaptažodis...</string>
+    <string name="hint_title">pavadinimas...</string>
+    <string name="button_save">IŠSAUGOTI</string>
+    <string name="empty_not_saved">Neišsaugota, nes laukelis tuščias</string>
+    <string name="clear_all_data">Trinti Visus Įrašus</string>
+    <string name="button_generate">GENERUOTI</string>
+    <string name="checkBox_numbers">skaičiai</string>
+    <string name="checkBox_letters">raidės</string>
+    <string name="checkBox_marks">ženklai</string>
+</resources>
